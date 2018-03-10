@@ -1,0 +1,14 @@
+{
+  "name": "calc-service",
+  "version": "1.0.0",
+  "description": "A simple calculator REST API service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fiqri Ismail",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.2"
+  }
+}
